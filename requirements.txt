@@ -1,0 +1,5 @@
+# Laufzeitabhaengigkeiten des Papierbetriebs
+websockets>=12.0
+
+# Nur fuer die Live-Ausfuehrung (nicht Teil dieses Repositories):
+# solders, cryptography

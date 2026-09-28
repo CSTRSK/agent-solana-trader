@@ -1,0 +1,13 @@
+# Rohdaten und Laufzeitdateien gehoeren nicht ins Repository
+*.jsonl
+!results/trades_sample.jsonl
+*.pyc
+__pycache__/
+*.log
+*.bin
+*.pt
+.env
+.env.*
+*.pw
+*.pem
+*.key
